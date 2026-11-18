@@ -130,18 +130,6 @@ The dashboard can support HR teams in:
 - Supporting employee retention discussions.
 - Improving HR reporting and workforce planning.
 
-## Project Structure
-
-```text
-hr-analytics-and-employee-attrition-powerbi/
-│
-├── HR Analysis.pbix
-│
-├── images/
-│   └── dashboard-preview.png
-│
-└── README.md
-```
 
 ## How to Use the Project
 
