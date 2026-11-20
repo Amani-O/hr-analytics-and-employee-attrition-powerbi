@@ -131,7 +131,7 @@ The dashboard can support HR teams in:
 - Improving HR reporting and workforce planning.
 
 
-## HR Analysis Dashboard Report
+## HR Analysis Report
 
 <img width="953" height="531" alt="aaa" src="https://github.com/user-attachments/assets/0e212a85-5097-4b99-9100-f38324891aac" />
 
