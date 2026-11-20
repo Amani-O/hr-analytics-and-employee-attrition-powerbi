@@ -133,6 +133,8 @@ The dashboard can support HR teams in:
 
 ## How to Use the Project
 
+<img width="953" height="531" alt="aaa" src="https://github.com/user-attachments/assets/0e212a85-5097-4b99-9100-f38324891aac" />
+
 1. Clone or download this repository.
 2. Open the PBIX file using Microsoft Power BI Desktop.
 3. Explore the KPI cards and dashboard visualisations.
